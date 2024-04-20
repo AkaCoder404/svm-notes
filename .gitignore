@@ -1,0 +1,8 @@
+.vscode
+data/
+out/
+
+# R generated files
+.RData
+.Rhistory
+
